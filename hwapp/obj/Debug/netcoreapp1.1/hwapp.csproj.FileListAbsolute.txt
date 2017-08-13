@@ -1,0 +1,8 @@
+/home/akira777/Projects/hwapp/bin/Debug/netcoreapp1.1/hwapp.deps.json
+/home/akira777/Projects/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.json
+/home/akira777/Projects/hwapp/bin/Debug/netcoreapp1.1/hwapp.runtimeconfig.dev.json
+/home/akira777/Projects/hwapp/bin/Debug/netcoreapp1.1/hwapp.dll
+/home/akira777/Projects/hwapp/bin/Debug/netcoreapp1.1/hwapp.pdb
+/home/akira777/Projects/hwapp/obj/Debug/netcoreapp1.1/hwapp.AssemblyInfo.cs
+/home/akira777/Projects/hwapp/obj/Debug/netcoreapp1.1/hwapp.dll
+/home/akira777/Projects/hwapp/obj/Debug/netcoreapp1.1/hwapp.pdb

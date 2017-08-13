@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/akira777/.nuget/packages"
+    ]
+  }
+}
