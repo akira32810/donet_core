@@ -24,8 +24,7 @@ namespace hwapp
 
                 using (HttpClient client = new HttpClient())
                 {
-                    //  HttpResponseMessage response = await client.GetAsync("https://www.strivetechies.com");
-                    //  response.EnsureSuccessStatusCode();
+                    
                     sourceCode = await client.GetStringAsync(url);
                 }
                 Console.WriteLine(Directory.GetCurrentDirectory());
