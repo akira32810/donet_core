@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{AD890258-CB88-4730-90AE-50E216D8E2B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RunningGoogleDriveUpdateArk/Program.cs">
+    <Files>
+      <File FileName="RunningGoogleDriveUpdateArk/Program.cs" Line="262" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RunningGoogleDriveUpdateArk PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
