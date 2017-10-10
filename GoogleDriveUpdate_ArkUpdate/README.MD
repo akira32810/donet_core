@@ -9,7 +9,7 @@ You may install google-drive-ocamlfuse to your linux distro and have it run with
 
 ---------------------
 
- string processResult = string.Empty;
+           string processResult = string.Empty;
 
                      if (returnCountDirectoryGoogleDrive() > 1)
                      {
