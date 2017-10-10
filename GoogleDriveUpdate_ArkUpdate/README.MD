@@ -33,4 +33,4 @@ You may install google-drive-ocamlfuse to your linux distro and have it run with
 4. This should work on Linux, Mac and Windows. You will just have to adjust your path accordingly.
 5. Shoot me an email at akira32810@gmail.com with any questions.
 
-And yes, I know there are other methods to write this much more efficiently depending on your setup. But I am glad to take any advice.
+And yes, I know there are other methods to write this much more efficiently depending on your setup. But I will be glad to take any advice.
