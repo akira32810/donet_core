@@ -55,10 +55,10 @@ namespace RunningGoogleDriveUpdateArk
             //update ark
                UpdateArk();
 
-            //	Console.WriteLine("Press \'q\' to quit the app.");
-            //while (Console.Read() != 'q');
+          Console.WriteLine("Press \'q\' to quit the app.");
+          while (Console.Read() != 'q');
 
-            Console.Read();
+            //Console.Read();
 
           //  ReturnConsoleData("arkrcon broadcast hello there",true);
 
