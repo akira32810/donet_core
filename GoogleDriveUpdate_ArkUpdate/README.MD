@@ -27,7 +27,7 @@ You may install google-drive-ocamlfuse to your linux distro and have it run with
 
 
 ------------------------------
-1. You must compile rcon first for Ark and before you compile the rcon.c file, you will need to change the password within it to use it with this app.  You will then change it in the source code in Program.cs the location to your compiled rcon file and the password you set.
+1. You must compile rcon first for Ark and before you compile the rcon.c file, you will need to change the password within it  to use it with this app.  You will then change it in the source code in Program.cs the location to your compiled rcon file and the password you set. (rcon source and info: http://www.ark-survival.net/en/2015/07/09/rcon-tutorial/)
 2. Change the path in the code to your own preference and then use "dotnet publish [code directory]"
 3. If you  want to run it in a schedule time like myself, set cron job (linux) to run "dotnet [/path/to/your/compile.dll] file after you run the command on step 2.
 4. This should work on Linux, Mac and Windows. You will just have to adjust your path accordingly.
