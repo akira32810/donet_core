@@ -5,7 +5,7 @@ I have also added dotnet as visosudo for my user (not root) to by able to run my
 
 Google auto update (optional)
 
-You may install google-drive-ocamlfuse to your linux distro and have it run with cronjob. You may comment ou tthe following code from below in Program.cs
+You may install google-drive-ocamlfuse to your linux distro and have it run with cronjob. You may comment out the following code from below in Program.cs
 
 ---------------------
 
