@@ -8,8 +8,6 @@ Google auto update (optional)
 You may install google-drive-ocamlfuse to your linux distro and have it run with cronjob.
 
  string processResult = string.Empty;
-
-
                      if (returnCountDirectoryGoogleDrive() > 1)
                      {
                          processResult +=  ReturnConsoleData("sudo cp -ru /home/akira777/Ark/ShooterGame/Saved/ /media/GoogleDrive/ArkGame_Backup",true);
@@ -22,7 +20,6 @@ You may install google-drive-ocamlfuse to your linux distro and have it run with
                          processResult += ReturnConsoleData("sudo cp -ru /home/akira777/Ark/ShooterGame/Saved/ /media/GoogleDrive/ArkGame_Backup",true);
 
             }
-
             logData(processResult);
 
 
